@@ -1,0 +1,78 @@
+ body {
+   background-image:url('../images/fon.jpg');
+   background-size: cover;
+ }
+.resize {
+max-width: 960px;
+margin: auto;
+background-image: url('../images/fonResize.jpg');
+height: auto;
+
+
+}
+.heanderLeft {
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  max-width: 300px;
+  float: left;
+}
+#heanderLeft1{
+    margin-left: 20px;
+   color: blue;
+   font-size: 24px;
+   width: 300px;
+   
+}
+#heanderLeft2{
+  margin-left: 20px;
+ color: blue;
+ font-size: 48px;
+ width: 300px;
+ 
+} 
+
+
+#heanderLeft3{
+  margin-left: 20px;
+  font-size: 13px;
+  width: 300px;
+  
+} 
+#ship {
+  margin-top: 70px;
+	width: 200px;
+}
+#phone {
+  font-size: 24px;
+  float: right; 
+  margin-right: 20px;
+  color: blue;
+}
+.infa {
+  
+  margin-left: 20px;
+  width: 55%;
+  font-size: 13px;
+  float: left;
+}
+#contentRight {
+  background: blue 10px;
+  color: #fff;
+  font-size: 18px;
+  float: right;
+  margin-right: 30px;
+  font-weight: bold;
+  
+}
+ul {
+  text-align: left;
+  font-size: 14px;
+  width: 30%;
+  float: right;
+
+}
+ #footer {
+  font-size: 14px;
+	color: #fff;
+ }
